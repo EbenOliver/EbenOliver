@@ -1,8 +1,8 @@
-- 👋 Hi,
-- 😎 I’m EBEN OLIVER
+- 👋 Hi Buddy !
+- 😎 I’m EBEN OLIVER PONNAPPAN 
 - 💖 I love Coding ...
-- 🐍 I’m currently working on [ PYTHON (Django) Projects ] ...
-- 💞️ CODE never Lies.., comments sometimes DO ! ...
+- 🐍 I’m currently working on [ PYTHON (Django) Projects ] . . .
+- 💞️ CODE never Lies . . , comments sometimes DO ! . . .
 
 
 <!---
