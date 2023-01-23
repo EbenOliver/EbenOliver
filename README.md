@@ -1,7 +1,7 @@
 - 👋 Hi Buddy !
 - 😎 I’m EBEN OLIVER PONNAPPAN 
 - 💖 I love Coding ...
-- 🐍 I’m currently working on [ PYTHON (Django) Projects ] . . .
+- 🐍 I’m currently working on [ REACT, PYTHON (Django) Projects ] . . .
 - 💞️ CODE never Lies . . , comments sometimes DO ! . . .
 
 
